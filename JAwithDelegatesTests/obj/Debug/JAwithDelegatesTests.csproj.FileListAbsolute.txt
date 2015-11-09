@@ -1,0 +1,9 @@
+D:\Visual Studio 2015\Projects\JAWithDelegate\JAwithDelegatesTests\bin\Debug\JAwithDelegatesTests.dll
+D:\Visual Studio 2015\Projects\JAWithDelegate\JAwithDelegatesTests\bin\Debug\JAwithDelegatesTests.pdb
+D:\Visual Studio 2015\Projects\JAWithDelegate\JAwithDelegatesTests\bin\Debug\JAWithDelegate.dll
+D:\Visual Studio 2015\Projects\JAWithDelegate\JAwithDelegatesTests\bin\Debug\nunit.framework.dll
+D:\Visual Studio 2015\Projects\JAWithDelegate\JAwithDelegatesTests\bin\Debug\JAWithDelegate.pdb
+D:\Visual Studio 2015\Projects\JAWithDelegate\JAwithDelegatesTests\bin\Debug\nunit.framework.xml
+D:\Visual Studio 2015\Projects\JAWithDelegate\JAwithDelegatesTests\obj\Debug\JAwithDelegatesTests.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Projects\JAWithDelegate\JAwithDelegatesTests\obj\Debug\JAwithDelegatesTests.dll
+D:\Visual Studio 2015\Projects\JAWithDelegate\JAwithDelegatesTests\obj\Debug\JAwithDelegatesTests.pdb

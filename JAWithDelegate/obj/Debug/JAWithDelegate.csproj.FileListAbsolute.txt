@@ -1,0 +1,5 @@
+D:\Visual Studio 2015\Projects\JAWithDelegate\JAWithDelegate\bin\Debug\JAWithDelegate.dll
+D:\Visual Studio 2015\Projects\JAWithDelegate\JAWithDelegate\bin\Debug\JAWithDelegate.pdb
+D:\Visual Studio 2015\Projects\JAWithDelegate\JAWithDelegate\obj\Debug\JAWithDelegate.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Projects\JAWithDelegate\JAWithDelegate\obj\Debug\JAWithDelegate.dll
+D:\Visual Studio 2015\Projects\JAWithDelegate\JAWithDelegate\obj\Debug\JAWithDelegate.pdb
